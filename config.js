@@ -7,8 +7,8 @@
 //  NON inserire MAI la chiave "service_role" / "secret".
 // =============================================================
 window.APP_CONFIG = {
-  SUPABASE_URL: "https://INSERISCI-IL-TUO-PROGETTO.supabase.co",
-  SUPABASE_ANON_KEY: "INSERISCI-LA-TUA-ANON-KEY",
+  SUPABASE_URL: "https://iorzwlodowfixktsjxgb.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_84nKpezfdd1O9WcSjVM5Cg_b_SgWle-",
 
   TITOLO: "Gestionale Formatori SAF",
   SOTTOTITOLO: "Calendario e gestione formatori",
